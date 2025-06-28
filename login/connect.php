@@ -1,6 +1,6 @@
 <?php
 
-$host="localhost:4306";
+$host="localhost:3306";
 $user="root";
 $pass="";
 $db="login";
