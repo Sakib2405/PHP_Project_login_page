@@ -29,4 +29,4 @@ include("connect.php");
       <a href="logout.php">Logout</a>
     </div>
 </body>
-</html>
+</html> 
